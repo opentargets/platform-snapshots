@@ -32,10 +32,9 @@ git submodule update --init --recursive
 - [orchestration](https://github.com/opentargets/orchestration) — Pipeline orchestrator
 - [pis](https://github.com/opentargets/platform-input-support) — Pipeline Input Stage
 - [pts](https://github.com/opentargets/ontoform) — Pipeline Transformation Stage
-- [platform-etl-backend](https://github.com/opentargets/platform-etl-backend) — Pipeline ETL Stage
 - [platform-output-support](https://github.com/opentargets/platform-output-support) — Output data generation application
 
-### Platform web application
+### Platform web applicationd
 - [ot-ui-apps](https://github.com/opentargets/ot-ui-apps) — Web App
 - [ot-ai-api](https://github.com/opentargets/ot-ai-api) — AI API
 - [platform-api](https://github.com/opentargets/platform-api) — API
