@@ -1,51 +1,40 @@
-[submodule "ot-ai-api"]
-	path = ot-ai-api
-	url = https://github.com/opentargets/ot-ai-api.git
-[submodule "ot-ui-apps"]
-	path = ot-ui-apps
-	url = https://github.com/opentargets/ot-ui-apps.git
-[submodule "platform-output-support"]
-	path = platform-output-support
-	url = https://github.com/opentargets/platform-output-support.git
-[submodule "platform-api"]
-	path = platform-api
-	url = https://github.com/opentargets/platform-api.git
-[submodule "platform-input-support"]
-	path = platform-input-support
-	url = git@github.com:javfg/platform-input-support.git
-[submodule "OnToma"]
-	path = OnToma
-	url = https://github.com/opentargets/OnToma.git
+# Data generation
+
 [submodule "curation"]
 	path = curation
 	url = https://github.com/opentargets/curation.git
-[submodule "json_schema"]
-	path = json_schema
-	url = https://github.com/opentargets/json_schema.git
-[submodule "platform-etl-backend"]
-	path = platform-etl-backend
-	url = https://github.com/opentargets/platform-etl-backend.git
 [submodule "gentropy"]
 	path = gentropy
 	url = https://github.com/opentargets/gentropy.git
-[submodule "ontoform"]
-	path = ontoform
-	url = https://github.com/opentargets/ontoform.git
-[submodule "orchestration"]
-	path = orchestration
-	url = https://github.com/opentargets/orchestration.git
-[submodule "pts"]
-	path = pts
-	url = https://github.com/opentargets/pts.git
-[submodule "pis"]
-	path = pis
-	url = https://github.com/opentargets/pis.git
-[submodule "ot_croissant"]
-	path = ot_croissant
-	url = https://github.com/opentargets/ot_croissant.git
+[submodule "mira"]
+	path = mira
+	url = https://github.com/opentargets/mira.git
+[submodule "OnToma"]
+	path = OnToma
+	url = https://github.com/opentargets/OnToma.git
+
+
+# Pipeline
+
+[submodule "pipeline"]
+	path = pipeline
+	url = https://github.com/opentargets/pipeline.git
+[submodule "pos"]
+	path = pos
+	url = https://github.com/opentargets/pos.git
+
+
+# Platform web application
+
+[submodule "platform-webapp"]
+	path = platform-webapp
+	url = https://github.com/opentargets/platform-webapp.git
+[submodule "platform-api"]
+	path = platform-api
+	url = https://github.com/opentargets/platform-api.git
+[submodule "platform-ai-api"]
+	path = platform-ai-api
+	url = https://github.com/opentargets/platform-ai-api.git
 [submodule "platform-deployment-nextgen"]
 	path = platform-deployment-nextgen
 	url = https://github.com/opentargets/platform-deployment-nextgen.git
-[submodule "clinical_mining"]
-	path = clinical_mining
-	url = https://github.com/opentargets/clinical_mining.git
